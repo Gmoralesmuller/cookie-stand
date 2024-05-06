@@ -98,6 +98,3 @@ window.addEventListener("load", function () {
   renderStores();
   renderTotales();
 });
-
-
-
